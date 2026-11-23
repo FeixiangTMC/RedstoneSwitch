@@ -1,0 +1,7 @@
+{
+    "Toggle observer redstone output and dispenser item output.": "控制侦测器的红石信号输出和发射器的物品发射。",
+    "Observer redstone output is disabled.": "已关闭侦测器的红石信号输出。",
+    "Observer redstone output is enabled.": "已恢复侦测器的红石信号输出。",
+    "Dispenser item output is disabled.": "已关闭发射器的物品发射。",
+    "Dispenser item output is enabled.": "已恢复发射器的物品发射。"
+}
